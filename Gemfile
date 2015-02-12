@@ -27,3 +27,9 @@ gem 'spring',        group: :development
 gem 'ember-rails'
 gem 'ember-source', '~> 1.8.1'
 gem 'emblem-rails'
+
+gem 'haml-rails'
+
+gem 'ffaker'
+
+gem 'puma'
