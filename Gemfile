@@ -32,4 +32,6 @@ gem 'haml-rails'
 
 gem 'ffaker'
 
+gem 'irbtools', require: 'irbtools/binding'
+
 gem 'puma'
